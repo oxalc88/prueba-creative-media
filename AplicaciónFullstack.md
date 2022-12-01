@@ -7,19 +7,6 @@ Consiste en una aplicación de Lista de Tareas, con un input para ingresar las n
 _Aplicación_
 ![Presentacion](./assets/CRUD.png)
 
-
-## Despliegue 📦
-
-_Para el despligue del proyecto se utilizaron los siguientes servicios:_
-
-* [Vercel](vercel.com) para el frontend
-* [Railway](https://railway.app/) para el backend
-* [MongoDb Atlas](https://www.mongodb.com/es/atlas/database) para la Base de Datos
-
- _[Aquí](https://heladitos-app.vercel.app/)_ puedes ver el proyecto completo
-
-__
-
 ___
 
 
