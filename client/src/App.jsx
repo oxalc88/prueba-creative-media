@@ -42,7 +42,7 @@ function App() {
 
   return (
     <div className="flex m-20 p-15 gap-4 flex-col">
-      <h1 class="text-4xl font-bold mb-8 text-center">Lista de Tareas</h1>
+      <h1 className="text-4xl font-bold mb-8 text-center">Lista de Tareas</h1>
       <Search
         searchValue={searchValue}
         setSearchValue={setSearchValue}
