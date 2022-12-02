@@ -1,6 +1,6 @@
 import CrearTarea from "./CrearTarea";
 
-function Search({ searchValue, setSearchValue, addTask, onSubmit }) {
+const Search = ({ searchValue, setSearchValue, addTask, onSubmit }) => {
   const searchChange = (e) => {
     console.log(e.target.value);
     setSearchValue(e.target.value);
@@ -22,5 +22,6 @@ function Search({ searchValue, setSearchValue, addTask, onSubmit }) {
       </div>
     </form>
   );
-}
-export { Search };
+};
+
+export default Search;

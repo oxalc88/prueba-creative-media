@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-import { Search } from "./components/search";
+import Search from "./components/Search";
 import ListaTareas from "./components/ListaTareas";
 import Tarea from "./components/Tarea";
 import { createTask, deleteTask, getTask, updateTask } from "./api";
